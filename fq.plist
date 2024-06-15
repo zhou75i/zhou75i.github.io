@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://ipa.zhou75.cn/d/X/A%E4%B8%8D%E4%BC%9A%E4%B8%8B%E8%BD%BD%E7%9C%8B%E4%B8%8B%E9%9D%A2%E6%95%99%E7%A8%8B/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4%EF%BC%88%E6%AD%A3%E7%89%88%E6%97%A0%E5%B9%BF%E5%91%8A%EF%BC%89%40com.dragon.read.ipa</string>
+                </dict>
+<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://cdn-app-icon2.pgyer.com/f/e/f/e/4/fefe42310fbac3506a4088f5fe870ea3?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg</string>	<!-- 57x57 像素的icon图片 -->
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://cdn-app-icon2.pgyer.com/f/e/f/e/4/fefe42310fbac3506a4088f5fe870ea3?x-oss-process=image/resize,m_lfit,h_120,w_120/format,jpg</string> <!-- 512x512 像素的icon图片 -->
+				</dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.dragon.read</string>
+                <key>bundle-version</key>
+                <string>1.1.1</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>吾爱破解</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
